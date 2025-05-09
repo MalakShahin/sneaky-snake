@@ -27,9 +27,9 @@ and avoid collisions to score points!
 
 ``` 
  snake-game/  
-│── snake.py          # Main game script  
-│── README.md         # This file  
-│── requirements.txt  # Dependencies (Pygame)  
+│── snake.py          
+│── README.md          
+│── requirements.txt  
 ```
 ---
 
