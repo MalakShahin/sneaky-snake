@@ -32,7 +32,9 @@ and avoid collisions to score points!
 │── requirements.txt  
 ```
 ---
+![Image](https://github.com/user-attachments/assets/f6634f8c-0942-497d-a92d-db7fff14fb27)
 
+![Image](https://github.com/user-attachments/assets/93277f1f-9f9b-4c4d-b1a4-fbf92b05f9ae)
 
 ---
 
